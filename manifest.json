@@ -11,7 +11,7 @@
        "type": "image/png"
      }
    ],
-   "start_url": "/index.html",
+   "start_url": "https://soham1806.github.io/My-First-Pwa/",
    "background_color": "#222",
    "display": "standalone",
    "scope": "/",
